@@ -9,4 +9,4 @@ Original script: https://github.com/MOXHARTZ/mx-audioplayer
 You just need to drag both folders into the main directory of mx-audioplayer and replace the old files. However, make sure to back up the old files before replacing them, just in case you need to restore them.
 
 # showcase
-Video: https://youtu.be/WHV5s5e6phE
+Video: [https://youtu.be/WHV5s5e6phE](https://www.youtube.com/watch?v=WHV5s5e6phE)
